@@ -1,0 +1,25 @@
+.h1
+{
+font-size: 34px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 29px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    background-color: white;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+}
+
